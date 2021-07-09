@@ -41,7 +41,7 @@ public class DataDrivenTest {
 	WebElement submit = driver.findElement(By.id("submitButton"));
 	submit.click();
 
-	String linklogout =
+
 		
 	}
 	
